@@ -15,7 +15,7 @@ The projects made by freshers which catch our eye will earn their makers a direc
 Any student of IIT Roorkee is eligible to make a submission and interact with us regarding their project. However, only freshers are eligible for the direct interview. Also, Makers is an individual participation event. 
 
 ## Ideas
-Find the ideas list for this edition of Makers [here](ideas/2022.pdf). There is no compulsion to work on an idea from this list, you're free to do anything as long as it involves making something with code.
+Find the ideas list for this edition of Makers [here](ideas.pdf). There is no compulsion to work on an idea from this list, you're free to do anything as long as it involves making something with code.
 
 ## Submission
 For a valid submission, you would be needing a source code repository link, a demo page (if it's a web app) or an executable (for native app). More instructions for submission will be announced soon.
